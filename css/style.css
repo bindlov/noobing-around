@@ -1,0 +1,66 @@
+@import "https://fonts.googleapis.com/css?family=Varela+Round";
+body {
+  background-color: #fff;
+  padding: 0;
+  margin: 0;
+  background: #c44032;
+  color: #f4f1de;
+  font-size: 100%; }
+
+.title {
+  text-align: center;
+  text-indent: -.12em;
+  color: #f4f1de;
+  font-family: "Varela Round", sans-serif;
+  font-weight: 800;
+  display: inline-block;
+  margin: 0 auto;
+  width: 100%;
+  font-size: calc(13.75vw + 26px);
+  text-shadow: #863027 .01em .01em 0, #863027 .02em .02em 0, #863027 .03em .03em 0, #863027 .04em .04em 0, #863027 .05em .05em 0, #863027 .06em .06em 0, #863027 .07em .07em 0,			 #863027 .08em .08em 0, #863027 .09em .09em 0, #863027 .1em .1em 0; }
+  @media (max-width: 320px) {
+    .title {
+      font-size: 70px; } }
+  @media (min-width: 1920px) {
+    .title {
+      font-size: 290px; } }
+
+.subtitle {
+  text-align: center;
+  text-indent: -.12em;
+  color: #f4f1de;
+  font-family: "Varela Round", sans-serif;
+  font-weight: 800;
+  display: inline-block;
+  white-space: nowrap;
+  margin: 0 auto;
+  width: 100%;
+  font-size: calc(5.25vw + 3.2px);
+  text-shadow: #863027 .01em .01em 0, #863027 .02em .02em 0, #863027 .03em .03em 0, #863027 .04em .04em 0, #863027 .05em .05em 0, #863027 .06em .06em 0, #863027 .07em .07em 0,			 #863027 .08em .08em 0, #863027 .09em .09em 0, #863027 .1em .1em 0; }
+  @media (max-width: 320px) {
+    .subtitle {
+      font-size: 20px; } }
+  @media (min-width: 1920px) {
+    .subtitle {
+      font-size: 104px; } }
+
+.text {
+  text-align: center;
+  text-indent: -.12em;
+  color: #f4f1de;
+  font-family: "Varela Round", sans-serif;
+  font-weight: 800;
+  display: inline-block;
+  white-space: nowrap;
+  margin: 0 auto;
+  width: 100%;
+  font-size: calc(3.6875vw + 4.2px);
+  text-shadow: #863027 .01em .01em 0, #863027 .02em .02em 0, #863027 .03em .03em 0, #863027 .04em .04em 0, #863027 .05em .05em 0, #863027 .06em .06em 0, #863027 .07em .07em 0,			 #863027 .08em .08em 0, #863027 .09em .09em 0, #863027 .1em .1em 0; }
+  @media (max-width: 320px) {
+    .text {
+      font-size: 16px; } }
+  @media (min-width: 1920px) {
+    .text {
+      font-size: 75px; } }
+
+/*# sourceMappingURL=style.css.map */
